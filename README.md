@@ -1,6 +1,6 @@
-#My Resume
+# My Resume
 
-##By Christian Perkins
+## By Christian Perkins
 
 This project is intended to be a resume to show possible employers.
 
